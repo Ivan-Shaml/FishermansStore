@@ -8,4 +8,5 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="main_btn_color">#097893</color>
+    <color name="categories_card_bgr_color">#0693B6</color>
 </resources>
